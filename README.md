@@ -1,93 +1,138 @@
-# 👋 Hi, I'm Simon Karuga
+<div align="center">
 
-**Software Engineering Graduate | Backend & Full-Stack Developer**
+# Hey there! I'm Simon Karuga 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/simon-karuga)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:simon.karuga@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-simonkaruga-black?style=flat-square&logo=github)](https://github.com/simonkaruga)
+### Backend & Full-Stack Developer | Building Robust Systems
 
-Welcome to my coding universe! I specialize in building robust backend systems and full-stack applications with a focus on clean, maintainable code.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Software+Engineering+Graduate;Backend+%26+Full-Stack+Developer;Python+%7C+Flask+%7C+REST+APIs;Always+learning+new+technologies)](https://git.io/typing-svg)
 
-## 🛠️ Tech Stack
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/simon-karuga)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simon.karuga@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/simonkaruga)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/simonkaruga)
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-61DAFB?style=flat-square&logo=api&logoColor=black)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-## 🚀 Featured Projects
-
-### 🏗️ Backend & Full-Stack Applications
-
-#### [Estate-Riders](https://github.com/simonkaruga/Estate-Riders)
-> A JavaScript-based platform for property management and real estate services
-- **Tech Stack:** JavaScript
-- **Role:** Full-stack development
-- **Features:** Property listings, user management, booking system
-
-#### [MarketHub](https://github.com/simonkaruga/MarketHub)
-> E-commerce platform with modern JavaScript frontend
-- **Tech Stack:** JavaScript
-- **Role:** Frontend development
-- **Features:** Product catalog, shopping cart, user authentication
-
-#### [kenya-Relocation-Hub](https://github.com/simonkaruga/kenya-Relocation-Hub)
-> CSS-styled platform for relocation services in Kenya
-- **Tech Stack:** CSS
-- **Role:** Frontend styling and design
-- **Features:** Service listings, contact forms, responsive design
-
-### 🔧 Tools & Utilities
-
-#### [MWD-Tool-Maintenance-Tracker](https://github.com/simonkaruga/MWD-Tool-Maintenance-Tracker)
-> Python-based maintenance tracking system for tools and equipment
-- **Tech Stack:** Python
-- **Role:** Backend development
-- **Features:** Inventory management, maintenance scheduling, reporting
-
-#### [Eljaya-Trading-co.Limited](https://github.com/simonkaruga/Eljaya-Trading-co.Limited)
-> Business website with CSS styling for Eljaya Trading Company
-- **Tech Stack:** CSS
-- **Role:** Frontend development
-- **Features:** Company information, product showcase, contact pages
-
-## 📊 GitHub Stats
-
-![Simon Karuga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=simonkaruga&show_icons=true&theme=radical&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simonkaruga&layout=compact&theme=radical)
-
-## 🏆 Achievements
-
-[![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=simonkaruga&theme=radical&row=1&column=3)](https://github.com/simonkaruga)
-
-- **Yolo Achievement** - Unlocked with private contributions
-- **300+ contributions** in the last year
-- **Active contributor** across multiple repositories
-
-## 📈 Recent Activity
-
-**January 2026 Highlights:**
-- 🚀 **MarketHub**: 32 commits - Major feature development
-- 📦 **superheroes-api**: 3 commits - API enhancements
-- 🎨 **Simon-karuga-portfolio**: 2 commits - Portfolio updates
-- 🛠️ **Multiple projects**: 1 commit each - Bug fixes and improvements
-
-## 🤝 Let's Connect
-
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/simon-karuga)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail)](mailto:simon.karuga@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/simonkaruga)
+</div>
 
 ---
 
-⭐ **If you found this profile helpful, consider giving it a star!**
+## 🚀 About Me
 
+```python
+class SimonKaruga:
+    def __init__(self):
+        self.role = "Software Engineering Graduate"
+        self.focus = ["Backend Development", "Full-Stack Applications"]
+        self.current_learning = "Cloud Architecture & DevOps"
+        self.fun_fact = "I turn coffee into code ☕"
+
+    def get_skills(self):
+        return {
+            "languages": ["Python", "JavaScript", "CSS"],
+            "frameworks": ["Flask", "REST APIs"],
+            "tools": ["Git", "GitHub"],
+            "databases": ["SQL", "PostgreSQL"]
+        }
+```
+
+I specialize in developing robust backend systems and full-stack applications with an emphasis on **clean**, **scalable**, and **maintainable** code architecture.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Technologies
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=simonkaruga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonkaruga&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simonkaruga&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=simonkaruga&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=simonkaruga&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 💼 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🏠 **[Estate-Riders](https://github.com/simonkaruga/Estate-Riders)** | Property management platform with comprehensive listings & booking | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| 🛒 **[MarketHub](https://github.com/simonkaruga/MarketHub)** | Modern e-commerce platform with dynamic frontend | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| 🔧 **[MWD-Tool-Tracker](https://github.com/simonkaruga/MWD-Tool-Maintenance-Tracker)** | Maintenance tracking system with automated scheduling | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 🌍 **[Kenya-Relocation-Hub](https://github.com/simonkaruga/kenya-Relocation-Hub)** | Relocation services platform with responsive design | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| 🏢 **[Eljaya-Trading](https://github.com/simonkaruga/Eljaya-Trading-co.Limited)** | Corporate website with professional styling | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+
+</div>
+
+---
+
+## 📈 Current Focus
+
+- 🔭 Currently working on **MarketHub** - expanding e-commerce features
+- 🌱 Learning **Cloud Architecture** and **DevOps practices**
+- 👯 Open to collaborate on **Backend/Full-Stack projects**
+- 💬 Ask me about **Python, Flask, REST APIs**
+- ⚡ Fun fact: **300+ contributions** this year!
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always interested in collaborating on innovative projects and discussing emerging technologies.
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/simon-karuga)
+[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simon.karuga@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/simonkaruga)
+
+</div>
+
+---
+
+<div align="center">
+
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=simonkaruga&color=6C63FF&style=for-the-badge)
+
+**Thanks for visiting!** ⭐ Star some repos if you find them interesting!
+
+</div>

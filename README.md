@@ -155,6 +155,65 @@ class SimonKaruga:
 
 <div align="center">
 
+## ╭─────────────  𝐂𝐄𝐑𝐓𝐈𝐅𝐈𝐂𝐀𝐓𝐈𝐎𝐍𝐒 & 𝐀𝐂𝐇𝐈𝐄𝐕𝐄𝐌𝐄𝐍𝐓𝐒  ─────────────╮
+
+</div>
+
+<table align="center">
+<tr>
+<td width="100%" align="center">
+
+### 🎓 Professional Certifications
+
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/AI-Introduction_to_AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="40"/>
+<br/><br/>
+<b>Introduction to AI</b>
+<br/>
+<sub>Artificial Intelligence Fundamentals</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
+<br/><br/>
+<b>Python Development</b>
+<br/>
+<sub>Backend & Full-Stack</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Database-SQL_Expert-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="40"/>
+<br/><br/>
+<b>Database Design</b>
+<br/>
+<sub>SQL & NoSQL Systems</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/API-RESTful_Design-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="40"/>
+<br/><br/>
+<b>API Architecture</b>
+<br/>
+<sub>REST & Integration</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🏆 Key Achievements
+
+**🎯 300+ Contributions** this year • **⭐ 5 Major Projects** deployed • **👥 Active Open Source** contributor
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
 ## ╭─────────────  𝐆𝐈𝐓𝐇𝐔𝐁 𝐀𝐍𝐀𝐋𝐘𝐓𝐈𝐂𝐒  ─────────────╮
 
 <br/>

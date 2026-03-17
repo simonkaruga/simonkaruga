@@ -1,448 +1,238 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Simon%20Karuga&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%7C%20Backend%20Architect%20%7C%20System%20Designer&descAlignY=51&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=220&text=SIMON%20KARUGA&fontSize=58&fontColor=C9A84C&fontAlign=50&fontAlignY=45&desc=Full-Stack%20Engineer%20%E2%80%82%7C%E2%80%82%20Backend%20Architect%20%E2%80%82%7C%E2%80%82%20Product%20Builder&descSize=16&descAlignY=68&descAlign=50&descColor=A0A0A0" width="100%"/>
+
+</div>
+
+<div align="center">
 
 <br/>
 
-<!-- Elegant Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=28&duration=3000&pause=1000&color=2E3440&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Crafting+Elegant+Solutions+Through+Code;Specializing+in+Scalable+Backend+Architecture" alt="Typing SVG" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23C9A84C?style=flat-square&logo=linkedin&logoColor=0A0A0A&label=Connect)](https://linkedin.com/in/simon-karuga)&ensp;[![Email](https://img.shields.io/badge/Email-%23C9A84C?style=flat-square&logo=gmail&logoColor=0A0A0A&label=Hire%20Me)](mailto:simeonjoro@gmail.com)&ensp;[![Twitter](https://img.shields.io/badge/Twitter-%23C9A84C?style=flat-square&logo=x&logoColor=0A0A0A&label=Follow)](https://twitter.com/simonkaruga)&ensp;![Visitors](https://komarev.com/ghpvc/?username=simonkaruga&color=C9A84C&style=flat-square&label=Profile+Views)
+
+</div>
 
 <br/>
 
-<!-- Minimalist Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%">
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=22&duration=4000&pause=2000&color=C9A84C&center=true&vCenter=true&width=700&height=50&lines=I+build+systems+that+run+real+businesses.;From+first+line+of+code+to+production+deployment." alt="Typing" />
+</div>
 
 <br/>
 
-<!-- Professional Badges -->
-<a href="https://linkedin.com/in/simon-karuga"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" height="28"/></a>
-<a href="mailto:simon.karuga@example.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335" height="28"/></a>
-<a href="https://github.com/simonkaruga"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717" height="28"/></a>
-<a href="https://twitter.com/simonkaruga"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter&logoColor=white&labelColor=1DA1F2" height="28"/></a>
+---
+
+<br/>
+
+## &nbsp;&nbsp;`◈` &nbsp; ABOUT
+
+<br/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;I am a **Full-Stack Software Engineer** based in **Kenya**, with a specialization in designing and shipping
+&nbsp;&nbsp;&nbsp;&nbsp;complete digital products — from enterprise backend systems to polished client-facing platforms.
+
+&nbsp;&nbsp;&nbsp;&nbsp;My work spans pharmacy management systems processing multi-gateway African payments, premium
+&nbsp;&nbsp;&nbsp;&nbsp;automotive e-commerce platforms with headless CMS, and corporate web presence for established brands.
+
+<br/>
+
+<div align="center">
+
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+|:---|:---|
+| **End-to-end ownership** | From requirements → architecture → deployment |
+| **Africa-first engineering** | M-Pesa · Paystack · Airtel Money · Africa's Talking |
+| **Production-grade quality** | TypeScript · audit logs · real-time · scalable design |
+| **Business-driven mindset** | Code exists to serve outcomes, not the other way around |
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## &nbsp;&nbsp;`◈` &nbsp; TECHNICAL EXPERTISE
+
+<br/>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python&theme=dark" />&ensp;&ensp;<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwind&theme=dark" />&ensp;&ensp;<img src="https://skillicons.dev/icons?i=postgresql,redis,mongodb,prisma&theme=dark" />
 
 <br/><br/>
 
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,vercel,git&theme=dark" />&ensp;&ensp;<img src="https://skillicons.dev/icons?i=postman,figma,vscode,bash&theme=dark" />
+
 </div>
 
-<!-- About Section with Elegant Design -->
+<br/>
+
 <div align="center">
 
-## ╭─────────────────  𝐀𝐁𝐎𝐔𝐓  ─────────────────╮
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 Professional Synopsis
-
-> *"Excellence is not a destination; it is a continuous journey that never ends."*
-
-Software Engineering Graduate with a passion for architecting **robust backend systems** and **scalable full-stack applications**. I transform complex business requirements into elegant technical solutions, emphasizing:
-
-- 🏗️ **Clean Architecture** — SOLID principles & design patterns
-- ⚡ **Performance** — Optimized, efficient code
-- 🔒 **Security** — Best practices & secure implementations
-- 📈 **Scalability** — Future-proof solutions
-
-</td>
-<td width="50%" valign="top">
-
-### 💻 Technical Expertise
-
-```python
-class SimonKaruga:
-    def __init__(self):
-        self.role = "Backend Architect"
-        self.expertise = [
-            "RESTful API Design",
-            "Database Architecture",
-            "System Integration",
-            "Cloud Solutions"
-        ]
-        self.philosophy = "Code is poetry"
-    
-    def current_focus(self):
-        return "Cloud Architecture & DevOps"
+```
+  Languages     TypeScript  ·  JavaScript  ·  Python  ·  HTML5  ·  CSS3
+  Frontend      Next.js  ·  React  ·  Tailwind CSS  ·  Framer Motion  ·  Sanity CMS
+  Backend       Node.js  ·  Express  ·  REST APIs  ·  Socket.IO  ·  Bull Queues
+  Databases     PostgreSQL  ·  MongoDB  ·  Redis  ·  Prisma ORM  ·  MySQL
+  Payments      M-Pesa  ·  Paystack  ·  Airtel Money  ·  Stripe
+  DevOps        AWS  ·  Docker  ·  Vercel  ·  Linux  ·  Nginx
 ```
 
-**Core Competencies:**  
-`Backend Development` • `API Design` • `Database Modeling`  
-`System Architecture` • `Code Optimization` • `Technical Leadership`
+</div>
 
-</td>
-</tr>
-</table>
+<br/>
+
+---
+
+<br/>
+
+## &nbsp;&nbsp;`◈` &nbsp; SELECTED WORK
 
 <br/>
 
 <div align="center">
 
-## ╭─────────────  𝐓𝐄𝐂𝐇𝐍𝐈𝐂𝐀𝐋 𝐀𝐑𝐒𝐄𝐍𝐀𝐋  ─────────────╮
+### ── PharmaPulse ──
 
 </div>
 
-<table align="center">
-<tr>
-<td width="33%" align="center">
-
-### ⚙️ Languages
-
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
-
-**Python** • **JavaScript**  
-**HTML5** • **CSS3**
-
-</td>
-<td width="33%" align="center">
-
-### 🔧 Frameworks
-
-<img src="https://skillicons.dev/icons?i=flask,nodejs,fastapi,express" />
-
-**Flask** • **Node.js**  
-**REST APIs** • **Express**
-
-</td>
-<td width="33%" align="center">
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite" />
-
-**PostgreSQL** • **MySQL**  
-**MongoDB** • **SQLite**
-
-</td>
-</tr>
-<tr>
-<td width="33%" align="center">
-
-### 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-
-**Git** • **GitHub**  
-**VS Code** • **Postman**
-
-</td>
-<td width="33%" align="center">
-
-### ☁️ Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,bash" />
-
-**AWS** • **Docker**  
-**Linux** • **Bash**
-
-</td>
-<td width="33%" align="center">
-
-### 📚 Currently Learning
-
-<img src="https://skillicons.dev/icons?i=kubernetes,terraform,jenkins,nginx" />
-
-**Kubernetes** • **Terraform**  
-**Jenkins** • **Nginx**
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-## ╭─────────────  𝐂𝐄𝐑𝐓𝐈𝐅𝐈𝐂𝐀𝐓𝐈𝐎𝐍𝐒 & 𝐀𝐂𝐇𝐈𝐄𝐕𝐄𝐌𝐄𝐍𝐓𝐒  ─────────────╮
-
-</div>
-
-<table align="center">
-<tr>
-<td width="100%" align="center">
-
-### 🎓 Professional Certifications
-
-<br/>
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/AI-Introduction_to_AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="40"/>
-<br/><br/>
-<b>Introduction to AI</b>
-<br/>
-<sub>Artificial Intelligence Fundamentals</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
-<br/><br/>
-<b>Python Development</b>
-<br/>
-<sub>Backend & Full-Stack</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Database-SQL_Expert-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="40"/>
-<br/><br/>
-<b>Database Design</b>
-<br/>
-<sub>SQL & NoSQL Systems</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/API-RESTful_Design-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="40"/>
-<br/><br/>
-<b>API Architecture</b>
-<br/>
-<sub>REST & Integration</sub>
-</td>
-</tr>
-</table>
-
-<br/>
-
-### 🏆 Key Achievements
-
-**🎯 300+ Contributions** this year • **⭐ 5 Major Projects** deployed • **👥 Active Open Source** contributor
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-## ╭─────────────  𝐆𝐈𝐓𝐇𝐔𝐁 𝐀𝐍𝐀𝐋𝐘𝐓𝐈𝐂𝐒  ─────────────╮
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=simonkaruga&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&title_color=88C0D0&icon_color=81A1C1&text_color=D8DEE9&rank_icon=github&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=simonkaruga&theme=nord&hide_border=true&background=0D1117&ring=88C0D0&fire=D08770&currStreakLabel=88C0D0" />
-
-<br/><br/>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonkaruga&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=88C0D0&text_color=D8DEE9&langs_count=10&hide=jupyter%20notebook" />
-
-<br/><br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=simonkaruga&theme=nord&hide_border=true&bg_color=0D1117&color=88C0D0&line=81A1C1&point=D8DEE9" width="95%"/>
-
-<br/><br/>
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=simonkaruga&theme=nord&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="95%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## ╭─────────────  𝐏𝐎𝐑𝐓𝐅𝐎𝐋𝐈𝐎 𝐇𝐈𝐆𝐇𝐋𝐈𝐆𝐇𝐓𝐒  ─────────────╮
-
-</div>
-
-<br/>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🏠 [Estate-Riders](https://github.com/simonkaruga/Estate-Riders)
-
-**Property Management Platform**
-
-Comprehensive real estate solution featuring advanced property listings, booking system, and user management.
-
-**Tech Stack:**  
-`JavaScript` `HTML5` `CSS3` `Responsive Design`
-
-**Key Features:**
-- 🔍 Advanced search & filtering
-- 📅 Integrated booking system
-- 👥 User authentication
-- 📱 Mobile-responsive interface
-
-<a href="https://github.com/simonkaruga/Estate-Riders"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 [MarketHub](https://github.com/simonkaruga/MarketHub)
-
-**E-Commerce Platform**
-
-Modern online marketplace with dynamic product catalog, shopping cart, and seamless checkout experience.
-
-**Tech Stack:**  
-`JavaScript` `Node.js` `REST API` `Database`
-
-**Key Features:**
-- 🛍️ Dynamic product management
-- 🛒 Real-time cart updates
-- 💳 Secure payment integration
-- 📊 Admin dashboard
-
-<a href="https://github.com/simonkaruga/MarketHub"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔧 [MWD Tool Tracker](https://github.com/simonkaruga/MWD-Tool-Maintenance-Tracker)
-
-**Maintenance Management System**
-
-Industrial tool tracking system with automated scheduling, maintenance logs, and reporting capabilities.
-
-**Tech Stack:**  
-`Python` `Flask` `PostgreSQL` `REST API`
-
-**Key Features:**
-- 📋 Tool inventory management
-- ⏰ Automated maintenance scheduling
-- 📈 Analytics & reporting
-- 🔔 Alert notifications
-
-<a href="https://github.com/simonkaruga/MWD-Tool-Maintenance-Tracker"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🌍 [Kenya Relocation Hub](https://github.com/simonkaruga/kenya-Relocation-Hub)
-
-**Relocation Services Platform**
-
-Comprehensive relocation assistance platform with service listings, resource guides, and consultation booking.
-
-**Tech Stack:**  
-`HTML5` `CSS3` `JavaScript` `Responsive`
-
-**Key Features:**
-- 🗺️ Interactive service directory
-- 📚 Resource library
-- 📞 Consultation booking
-- 🌐 Multi-language support
-
-<a href="https://github.com/simonkaruga/kenya-Relocation-Hub"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-## ╭─────────────  𝐂𝐔𝐑𝐑𝐄𝐍𝐓 𝐅𝐎𝐂𝐔𝐒  ─────────────╮
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 Active Projects
-
-```yaml
-Current Work:
-  Project: "MarketHub E-Commerce Platform"
-  Phase: "Feature Expansion & Optimization"
-  Focus:
-    - Payment gateway integration
-    - Performance optimization
-    - Advanced analytics dashboard
-    - Mobile app development
+**Enterprise Pharmacy Management API** &nbsp;·&nbsp; *TypeScript · Node.js · PostgreSQL · Redis · Socket.IO*
+
+A full-scale backend system built for pharmacy operations in the **African market**. Covers the complete workflow — patient records, prescription dispensing, inventory, payments, and real-time alerts.
+
+```
+  Auth           Multi-role access control  ·  JWT  ·  2FA  ·  Rate limiting
+  Payments       M-Pesa  ·  Paystack  ·  Airtel Money  ·  Split-payment support
+  Real-time      Socket.IO stock alerts  ·  Live prescription updates
+  Inventory      Batch tracking  ·  FIFO rotation  ·  Expiry management
+  Automation     Bull job queues  ·  SMS refill reminders  ·  Scheduled backups
+  Compliance     Swagger/OpenAPI docs  ·  Full audit logging  ·  Sentry error tracking
 ```
 
-### 📚 Learning Journey
+&nbsp;&nbsp;[![View Project](https://img.shields.io/badge/View%20Repository-%23C9A84C?style=flat-square&logo=github&logoColor=0A0A0A)](https://github.com/simonkaruga/PharmaPulse)
 
-- ☁️ **Cloud Architecture** — AWS, Azure, GCP
-- 🐳 **DevOps Practices** — Docker, Kubernetes, CI/CD
-- 🏗️ **Microservices** — Distributed systems design
-- 🔐 **Security** — Application security best practices
+<br/>
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 🤝 Collaboration Interests
+<div align="center">
 
-**Open to collaborate on:**
+### ── Hive Motors Ltd ──
 
-- 🔹 Backend architecture projects
-- 🔹 Full-stack applications
-- 🔹 Open-source contributions
-- 🔹 API development & integration
-- 🔹 System design challenges
+</div>
 
-### 💡 Expertise Areas
+**Premium Automotive E-Commerce Platform** &nbsp;·&nbsp; *Next.js 16 · React 19 · Sanity CMS · Framer Motion*
 
-**Ask me about:**
+A production dealership website for a **Japanese import car business** — headless CMS, animated UI, real-time inquiry notifications, and a bespoke design system engineered to convert visitors into buyers.
 
-- Python & Flask development
-- RESTful API design
-- Database architecture
-- Backend optimization
-- System integration
+```
+  CMS            Sanity.io headless — full vehicle inventory managed by client
+  UI             Framer Motion animations  ·  Custom Midnight Black / Hive Gold palette
+  Conversions    Floating WhatsApp CTA  ·  Real-time inquiry emails via Resend
+  Content        Blog  ·  Dynamic car pages  ·  Rich image galleries
+  Deployment     Production on Vercel  ·  Fully mobile-responsive
+```
 
-### ⚡ Quick Stats
+&nbsp;&nbsp;[![View Project](https://img.shields.io/badge/View%20Repository-%23C9A84C?style=flat-square&logo=github&logoColor=0A0A0A)](https://github.com/simonkaruga/Hive-motors-ltd)
 
-**300+** contributions this year | **5** major projects | **∞** cups of coffee ☕
+<br/>
 
-</td>
-</tr>
-</table>
+---
+
+<div align="center">
+
+### ── Eljaya Trading Co. Ltd ──
+
+</div>
+
+**Corporate Branding & Merchandise Web Platform** &nbsp;·&nbsp; *HTML5 · CSS3 · JavaScript · AOS*
+
+A professional web presence for a **Nairobi-based branding firm** serving 500+ brands since 2015. Showcases their full service range — brand identity, corporate apparel, promotional merchandise, and sustainable packaging.
+
+```
+  Design         Scroll-triggered animations  ·  Portfolio gallery  ·  Client testimonials
+  SEO            Sitemap  ·  robots.txt  ·  .htaccess  ·  Structured metadata
+  Integrations   Social media  ·  Contact & inquiry forms
+```
+
+&nbsp;&nbsp;[![View Project](https://img.shields.io/badge/View%20Repository-%23C9A84C?style=flat-square&logo=github&logoColor=0A0A0A)](https://github.com/simonkaruga/Eljaya-Trading-co.Limited)
+
+<br/>
+
+---
+
+<div align="center">
+
+### ── MWD Tool Maintenance Tracker ──
+
+</div>
+
+**Industrial Maintenance Management System** &nbsp;·&nbsp; *Python · Flask · PostgreSQL · REST API*
+
+An automated tool tracking and scheduling system replacing manual maintenance logs with a structured, alert-driven platform for industrial operations.
+
+```
+  Core           Inventory management  ·  Maintenance scheduling  ·  Service history
+  Automation     Overdue alerts  ·  Scheduled reminders
+  Reporting      Analytics dashboard  ·  Exportable reports
+```
+
+&nbsp;&nbsp;[![View Project](https://img.shields.io/badge/View%20Repository-%23C9A84C?style=flat-square&logo=github&logoColor=0A0A0A)](https://github.com/simonkaruga/MWD-Tool-Maintenance-Tracker)
+
+<br/>
+
+---
+
+<br/>
+
+## &nbsp;&nbsp;`◈` &nbsp; GITHUB ANALYTICS
 
 <br/>
 
 <div align="center">
 
-## ╭─────────────  𝐋𝐄𝐓'𝐒 𝐂𝐎𝐍𝐍𝐄𝐂𝐓  ─────────────╮
-
-<br/>
-
-### *"Great things in business are never done by one person. They're done by a team of people."*
-### — Steve Jobs
-
-<br/>
-
-I'm always interested in collaborating on innovative projects, discussing emerging technologies,  
-and connecting with fellow developers and tech enthusiasts.
-
-<br/>
-
-<a href="https://linkedin.com/in/simon-karuga">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="35"/>
-</a>
-<a href="mailto:simon.karuga@example.com">
-  <img src="https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" height="35"/>
-</a>
-<a href="https://github.com/simonkaruga">
-  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="35"/>
-</a>
-<a href="https://twitter.com/simonkaruga">
-  <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" height="35"/>
-</a>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=simonkaruga&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=C9A84C&icon_color=C9A84C&text_color=A0A0A0&rank_icon=github&include_all_commits=true&count_private=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=simonkaruga&hide_border=true&background=0A0A0A&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&sideLabels=A0A0A0&dates=A0A0A0&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%">
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonkaruga&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=C9A84C&text_color=A0A0A0&langs_count=8&hide=jupyter%20notebook" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=simonkaruga&hide_border=true&bg_color=0A0A0A&color=C9A84C&line=C9A84C&point=FFFFFF&area=true&area_color=C9A84C" width="95%"/>
+
+</div>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=simonkaruga&color=88C0D0&style=flat-square&label=Profile+Views)
+---
 
 <br/>
 
-### ⭐ If you find my work interesting, consider starring some repositories!
+## &nbsp;&nbsp;`◈` &nbsp; ENGAGEMENT
 
 <br/>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<div align="center">
+
+I am available for **freelance projects**, **contract engagements**, and **full-time opportunities**.
+If you need a developer who takes ownership and ships — I would like to hear from you.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-%23C9A84C?style=for-the-badge&logo=linkedin&logoColor=0A0A0A)](https://linkedin.com/in/simon-karuga)&ensp;[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-%23C9A84C?style=for-the-badge&logo=gmail&logoColor=0A0A0A)](mailto:simeonjoro@gmail.com)&ensp;[![GitHub](https://img.shields.io/badge/GitHub-See%20My%20Work-%23C9A84C?style=for-the-badge&logo=github&logoColor=0A0A0A)](https://github.com/simonkaruga)
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=2&section=footer" width="100%"/>
+
+*"Simplicity is the ultimate sophistication."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A&height=80&section=footer" width="100%"/>
 
 </div>

@@ -8,7 +8,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23C9A84C?style=flat-square&logo=linkedin&logoColor=0A0A0A&label=Connect)](https://linkedin.com/in/simon-karuga)&ensp;[![Email](https://img.shields.io/badge/Email-%23C9A84C?style=flat-square&logo=gmail&logoColor=0A0A0A&label=Hire%20Me)](mailto:simeonjoro@gmail.com)&ensp;[![Twitter](https://img.shields.io/badge/Twitter-%23C9A84C?style=flat-square&logo=x&logoColor=0A0A0A&label=Follow)](https://twitter.com/simonkaruga)&ensp;![Visitors](https://komarev.com/ghpvc/?username=simonkaruga&color=C9A84C&style=flat-square&label=Profile+Views)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23C9A84C?style=flat-square&logo=vercel&logoColor=0A0A0A&label=Website)](https://eng-simon-karuga.vercel.app/)&ensp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23C9A84C?style=flat-square&logo=linkedin&logoColor=0A0A0A&label=Connect)](https://www.linkedin.com/in/simon-karuga-80755915b/)&ensp;[![Email](https://img.shields.io/badge/Email-%23C9A84C?style=flat-square&logo=gmail&logoColor=0A0A0A&label=Hire%20Me)](mailto:simeonjoro@gmail.com)&ensp;[![Twitter](https://img.shields.io/badge/Twitter-%23C9A84C?style=flat-square&logo=x&logoColor=0A0A0A&label=Follow)](https://twitter.com/simonkaruga)&ensp;![Visitors](https://komarev.com/ghpvc/?username=simonkaruga&color=C9A84C&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -223,7 +223,7 @@ If you need a developer who takes ownership and ships — I would like to hear f
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-%23C9A84C?style=for-the-badge&logo=linkedin&logoColor=0A0A0A)](https://linkedin.com/in/simon-karuga)&ensp;[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-%23C9A84C?style=for-the-badge&logo=gmail&logoColor=0A0A0A)](mailto:simeonjoro@gmail.com)&ensp;[![GitHub](https://img.shields.io/badge/GitHub-See%20My%20Work-%23C9A84C?style=for-the-badge&logo=github&logoColor=0A0A0A)](https://github.com/simonkaruga)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-%23C9A84C?style=for-the-badge&logo=vercel&logoColor=0A0A0A)](https://eng-simon-karuga.vercel.app/)&ensp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-%23C9A84C?style=for-the-badge&logo=linkedin&logoColor=0A0A0A)](https://www.linkedin.com/in/simon-karuga-80755915b/)&ensp;[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-%23C9A84C?style=for-the-badge&logo=gmail&logoColor=0A0A0A)](mailto:simeonjoro@gmail.com)&ensp;[![GitHub](https://img.shields.io/badge/GitHub-See%20My%20Work-%23C9A84C?style=for-the-badge&logo=github&logoColor=0A0A0A)](https://github.com/simonkaruga)
 
 <br/><br/>
 
